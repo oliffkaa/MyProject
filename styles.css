@@ -61,5 +61,9 @@ header button {
   font-size: 16px;
   text-align: center;
   text-transform: uppercase;
-
+  border-radius: 60px;
+  border: none;
+  width: 232px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
