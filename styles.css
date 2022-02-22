@@ -42,5 +42,5 @@ h4 {
 
 }
 header {
-  background: url(images/banner.png)
+  background: url(images/banner.png) no-repeat;
 }
