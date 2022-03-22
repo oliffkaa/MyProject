@@ -67,3 +67,8 @@ header button {
   padding-top: 24px;
   padding-bottom: 24px;
 }
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
