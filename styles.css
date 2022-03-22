@@ -67,8 +67,19 @@ header button {
   padding-top: 24px;
   padding-bottom: 24px;
 }
-nav {
+nav ul {
+  font-family: Raleway, sans-serif;
   list-style-type: none;
   margin: 0;
   padding: 0;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 15px;
+  text-transform: uppercase;
+}
+.bottom {
+  color:  #FFFFFF;
+}
+.top {
+  color: #000000;
 }
