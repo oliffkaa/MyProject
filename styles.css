@@ -83,3 +83,13 @@ nav ul {
 .top {
   color: #000000;
 }
+nav ul li {
+  display: inline-block;
+}
+nav ul li a {
+  display: block;
+}
+nav ul li a:hover {
+  color: #3483C7;
+  text-decoration: underline;
+}
