@@ -79,9 +79,12 @@ nav ul {
 }
 .bottom {
   color:  #FFFFFF;
+  padding-left: 103px;
 }
 .top {
   color: #000000;
+  padding-left: 480px;
+  background: url(images/LOGO.png) no-repeat;
 }
 nav ul li {
   display: inline-block;
