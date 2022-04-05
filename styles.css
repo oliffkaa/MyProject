@@ -27,6 +27,7 @@ h4 {
 .white {
   text-align: center;
   color: #FFFFFF;
+  background: url(images/circle.png) no-repeat;
 }
 .blue {
   color: #073773;
