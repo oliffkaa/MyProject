@@ -147,5 +147,6 @@ nav ul li a:hover {
   text-align: center;
 }
 .dance {
-  background: url(images/element.png) no-repeat 1078px;
+  background: url(images/element.png) no-repeat;
+  margin-top: 1078px;
 }
