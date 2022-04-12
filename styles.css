@@ -49,6 +49,7 @@ h4 {
 header {
   background: url(images/banner.png) no-repeat;
   height: 635px;
+  padding-top: 87px;
 }
 header button {
   background: rgb(0,158,226);
@@ -89,7 +90,7 @@ nav ul li a {
 .top {
   color: #000000;
   padding-left: 480px;
-  background: url(images/swosh.png) no-repeat, url(images/LOGO.png) no-repeat;
+  background: url(images/LOGO.png) no-repeat, url(images/swosh.png) no-repeat;
   padding-top: 32px;
   padding-bottom: 74px;
 }
