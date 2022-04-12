@@ -46,7 +46,7 @@ h4 {
   text-transform: uppercase;
 }
 header {
-  background: url(images/banner.png) no-repeat 0 87px;
+  background: url(images/header.png) no-repeat, url(images/banner.png) no-repeat 0 87px;
   height: 635px;
 }
 header button {
