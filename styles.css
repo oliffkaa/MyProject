@@ -16,7 +16,6 @@ header p {
   font-weight: normal;
   font-size: 20px;
   line-height: 150%;
-  padding-left: 93px;
   width: 271px;
   height: 60px;
 }
@@ -32,7 +31,6 @@ h4 {
 }
 .blue {
   color: #073773;
-  padding-left: 97px;
 }
 .about figcaption {
   font-family: Raleway, sans-serif;
@@ -69,7 +67,6 @@ header button {
   width: 232px;
   padding-top: 24px;
   padding-bottom: 24px;
-  margin-left: 113px;
 }
 nav ul {
   font-family: Raleway, sans-serif;
@@ -140,4 +137,8 @@ nav ul li a:hover {
   padding-top: 24px;
   padding-bottom: 24px;
   background: #FFFFFF;
+}
+.start {
+  background: url(images/circleheader.png) no-repeat;
+  width: 460px;
 }
