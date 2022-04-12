@@ -47,9 +47,8 @@ h4 {
   text-transform: uppercase;
 }
 header {
-  background: url(images/banner.png) no-repeat;
+  background: url(images/banner.png) no-repeat 0 87px;
   height: 635px;
-  padding-top: 87px;
 }
 header button {
   background: rgb(0,158,226);
