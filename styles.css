@@ -17,6 +17,8 @@ header p {
   font-size: 20px;
   line-height: 150%;
   padding-left: 93px;
+  width: 271px;
+  text-align: center;
 }
 h4 {
   font-family: 'Courgette', cursive;
