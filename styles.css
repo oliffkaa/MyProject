@@ -65,6 +65,7 @@ header button {
   width: 232px;
   padding-top: 24px;
   padding-bottom: 24px;
+  margin-top: 20px;
 }
 nav ul {
   font-family: Raleway, sans-serif;
@@ -114,10 +115,11 @@ nav ul li a:hover {
 .circle {
   background: url(images/circle.png) no-repeat;
   padding-top: 189px;
-  padding-bottom: 126px;
+  padding-bottom: 131px;
   width: 540px;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 .aboutus p {
   width: 394px;
@@ -135,6 +137,7 @@ nav ul li a:hover {
   padding-top: 24px;
   padding-bottom: 24px;
   background: #FFFFFF;
+  margin-top: 40px;
 }
 .start {
   background: url(images/circleheader.png) no-repeat;
