@@ -90,7 +90,7 @@ nav ul li a {
 .top {
   color: #000000;
   padding-left: 480px;
-  background: url(images/LOGO.png) no-repeat, url(images/swosh.png) no-repeat;
+  background: url(images/LOGO.png) no-repeat 103px 14px, url(images/swosh.png) no-repeat 0 80px;
   padding-top: 32px;
   padding-bottom: 74px;
 }
