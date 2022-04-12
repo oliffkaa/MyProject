@@ -119,6 +119,9 @@ nav ul li a:hover {
   background: url(images/circle.png) no-repeat;
   padding-top: 189px;
   padding-bottom: 126px;
+  width: 540px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .aboutus p {
   width: 394px;
