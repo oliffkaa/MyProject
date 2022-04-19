@@ -38,6 +38,7 @@ h4 {
   text-transform: uppercase;
   padding: 13px 16px 20px;
   background: #FFFFFF;
+  border-radius: 0 0 10px 10px;
 }
 .styles figcaption {
   font-family: Raleway, sans-serif;
