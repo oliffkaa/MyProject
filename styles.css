@@ -174,3 +174,6 @@ footer {
   border-radius: 10px;
   width: 185px;
 }
+.about img {
+  border-radius: 10px 10px 0 0;
+}
