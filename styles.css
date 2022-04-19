@@ -174,7 +174,31 @@ footer {
   border-radius: 10px;
   width: 185px;
   box-shadow: 0px 15px 45px rgba(7, 55, 115, 0.1);
+  position: absolute;
 }
 .about img {
   border-radius: 10px 10px 0 0;
+}
+.about {
+  position: relative;
+}
+.team {
+  top: 0;
+  left: 105px;
+}
+.floors {
+  top: 50px;
+  left: 420px;
+}
+.friday {
+  top: 240px;
+  left: 0;
+}
+.fkids {
+  top: 290px;
+  left: 630px;
+}
+.choice {
+  top: 345px;
+  left: 315px;
 }
