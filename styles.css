@@ -173,6 +173,7 @@ footer {
 .about figure {
   border-radius: 10px;
   width: 185px;
+  box-shadow: 0px 15px 45px rgba(7, 55, 115, 0.1);
 }
 .about img {
   border-radius: 10px 10px 0 0;
